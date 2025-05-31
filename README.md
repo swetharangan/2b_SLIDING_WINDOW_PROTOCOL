@@ -63,9 +63,12 @@ c.close()
 ```
 ## OUPUT
 
-### server
-![alt text](image-1.png)
+![Screenshot 2025-05-31 230812](https://github.com/user-attachments/assets/98832d06-13fd-4c49-b04b-5734a0441ad7)
+
 ### client
-![alt text](image.png)
+
+![Screenshot 2025-05-31 230823](https://github.com/user-attachments/assets/9738b294-9c14-41eb-8239-d8feff6dd4ab)
+
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
